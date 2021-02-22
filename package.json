@@ -1,14 +1,28 @@
 {
   "name": "dash-v2",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.3.0",
+    "framer-motion": "^2.9.5",
+    "lockr": "^0.8.5",
+    "lodash": "^4.17.20",
+    "p5": "^1.1.9",
     "react": "^17.0.1",
+    "react-color": "^2.19.3",
     "react-dom": "^17.0.1",
+    "react-draggable": "^4.4.3",
+    "react-grid-layout": "^1.2.0",
+    "react-helmet": "^6.1.0",
     "react-scripts": "4.0.1",
+    "styled-components": "^5.2.1",
+    "styled-icons": "^10.22.0",
+    "three": "^0.123.0",
+    "vanta": "^0.5.21",
+    "weather-icons-react": "^1.2.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
